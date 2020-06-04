@@ -1,0 +1,7 @@
+#tootall, #allrides, #tooshort {
+  display: none;
+}
+
+ul:hover {
+  background-color: aquamarine;
+}
