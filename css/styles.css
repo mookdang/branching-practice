@@ -1,7 +1,3 @@
-#tootall, #allrides, #tooshort {
+#tootall, #justright, #tooshort {
   display: none;
-}
-
-ul:hover {
-  background-color: aquamarine;
 }
