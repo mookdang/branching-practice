@@ -3,11 +3,10 @@ $(document).ready(function() {
 
     if (height >= 72) {
         $('#tootall').show(); 
+        $('#tallrides').show();
     }   else if (height >= 58) {
         $('#justright').show();
     }   else {
         $('#tooshort').show();
     }
-
-   
 });
