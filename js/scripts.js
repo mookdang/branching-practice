@@ -6,7 +6,10 @@ $(document).ready(function() {
         $('#tallrides').show();
     }   else if (height >= 58) {
         $('#justright').show();
+        $('#shortrides').show();
+        $('tallrides').show();
     }   else {
         $('#tooshort').show();
+        $('#shortrides').show();
     }
 });
